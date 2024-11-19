@@ -1,0 +1,483 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "nama": "White Oversize",
+      "harga": 350000,
+      "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "stok": 0
+    },
+    {
+      "id": "2",
+      "nama": "Men Cardigan",
+      "harga": 200000,
+      "gambar": "https://images.unsplash.com/photo-1583167465341-639b41dfd97b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fG1lbiUyMGNhcmRpZ2FufGVufDB8fDB8fHwy",
+      "stok": 0
+    },
+    {
+      "id": "3",
+      "nama": "Blue Fitted Jeans",
+      "harga": 800000,
+      "gambar": "https://images.unsplash.com/photo-1514409101893-7db2a465592d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGplYW5zfGVufDB8fDB8fHwy",
+      "stok": 5
+    },
+    {
+      "id": "4",
+      "nama": "New Era : Green Lantern",
+      "harga": 650000,
+      "gambar": "https://images.unsplash.com/photo-1720534490358-bc2ad29d51d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3ZXJhJTIwaGF0fGVufDB8fDB8fHwy",
+      "stok": 3
+    },
+    {
+      "id": "6",
+      "nama": "Luis Vuitton Casual Sneakers",
+      "harga": 3300000,
+      "gambar": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzdWFsJTIwc25lYWtlcnN8ZW58MHx8MHx8fDI%3D",
+      "stok": 1
+    },
+    {
+      "id": "7",
+      "nama": "Classic Watch",
+      "harga": 1500000,
+      "gambar": "https://images.unsplash.com/photo-1667375565651-b660b574d1a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2xhc3NpYyUyMHdhdGNofGVufDB8fDB8fHwy",
+      "stok": 0
+    },
+    {
+      "id": "8",
+      "nama": "Black Backpack",
+      "harga": 250000,
+      "gambar": "https://images.unsplash.com/photo-1585501954260-372cec60d355?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJsYWNrJTIwYmFja3BhY2t8ZW58MHx8MHx8fDI%3D",
+      "stok": 9
+    },
+    {
+      "id": "9",
+      "nama": "Sunglasses Aviator",
+      "harga": 175000,
+      "gambar": "https://images.unsplash.com/photo-1579876145085-2c1fda8a27d1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHN1bmdsYXNzZXMlMjBhdmlhdG9yfGVufDB8fDB8fHwy",
+      "stok": 7
+    },
+    {
+      "id": "10",
+      "nama": "Denim Jacket",
+      "harga": 350000,
+      "gambar": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGVuaW0lMjBqYWNrZXR8ZW58MHx8MHx8fDI%3D",
+      "stok": 6
+    },
+    {
+      "id": "11",
+      "nama": "Men's Trench Coat",
+      "harga": 600000,
+      "gambar": "https://images.unsplash.com/photo-1621880199720-be0d7d960a0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwdHJlbmNoJTIwY29hdHxlbnwwfHwwfHx8Mg%3D%3D",
+      "stok": 0
+    },
+    {
+      "id": "12",
+      "nama": "Brown Leather Wallet",
+      "harga": 120000,
+      "gambar": "https://images.unsplash.com/photo-1620109176813-e91290f6c795?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJvd24lMjBsZWF0aGVyJTIwd2FsbGV0fGVufDB8fDB8fHwy",
+      "stok": 18
+    },
+    {
+      "id": "14",
+      "nama": "Nike Dunk : Blue Star",
+      "harga": 1800000,
+      "gambar": "https://images.unsplash.com/photo-1615451210353-cbcf249f392a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMGR1bmt8ZW58MHx8MHx8fDI%3D",
+      "stok": 3
+    },
+    {
+      "id": "15",
+      "nama": "Corkcicle",
+      "harga": 1200000,
+      "gambar": "https://images.unsplash.com/photo-1718882705958-797686aac498?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y29ya2NpY2xlfGVufDB8fDB8fHwy",
+      "stok": 3
+    },
+    {
+      "id": "50b4",
+      "nama": "Trasher Uniqlo",
+      "harga": 150000,
+      "stok": 2,
+      "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "891e",
+      "nama": "Uniqlo Oversize",
+      "harga": 550000,
+      "stok": 2,
+      "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "d909",
+      "nama": "Baggy Pants",
+      "harga": 300000,
+      "stok": 7,
+      "gambar": "https://images.unsplash.com/photo-1663243145106-9f3a5cf460c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGJhZ2d5JTIwcGFudHN8ZW58MHx8MHx8fDI%3D"
+    },
+    {
+      "id": "4442",
+      "nama": "Samba",
+      "harga": 1900000,
+      "stok": 5,
+      "gambar": "https://images.unsplash.com/photo-1695552837550-5751313ee8ba?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FtYmElMjBhZGlkYXN8ZW58MHx8MHx8fDI%3D"
+    },
+    {
+      "id": "6464",
+      "nama": "Nike Mules (Men)",
+      "harga": 1100000,
+      "stok": 3,
+      "gambar": "https://th.bing.com/th/id/OIP.CjVQuJ5Uxfo9z4m_ZD4H3AHaFM?w=260&h=181&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+    },
+    {
+      "id": "6fc7",
+      "nama": "Vinyl Record",
+      "harga": 2200001,
+      "stok": 1,
+      "gambar": "https://images.unsplash.com/photo-1630441099796-851705faa3ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHZpbnlsJTIwcmVjb3JkfGVufDB8fDB8fHwy"
+    },
+    {
+      "id": "735e",
+      "nama": "Iphone 15 Iqal Baru Baret Dikit",
+      "harga": 30000000,
+      "stok": 4,
+      "gambar": "https://images.unsplash.com/photo-1695048132853-026f93f40f7f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aXBob25lJTIwMTV8ZW58MHx8MHx8fDA%3D"
+    },
+    {
+      "id": "0729",
+      "nama": "bikini",
+      "harga": 30000,
+      "stok": 2,
+      "gambar": "https://th.bing.com/th/id/OIP.qzenbUQpezxfzRYeq6C5RwHaHa?w=207&h=207&c=7&r=0&o=5&dpr=1.1&pid=1.7"
+    },
+    {
+      "id": "49de",
+      "nama": "eko",
+      "harga": 10000,
+      "stok": 1,
+      "gambar": "https://images.unsplash.com/photo-1630441099796-851705faa3ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHZpbnlsJTIwcmVjb3JkfGVufDB8fDB8fHwy"
+    }
+  ],
+  "users": [
+    {
+      "id": "c92c",
+      "username": "cepii",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "4978",
+      "username": "admin",
+      "password": "admin123",
+      "role": "admin"
+    },
+    {
+      "id": "b83f",
+      "username": "azmibokep",
+      "password": "solehot9",
+      "role": "admin"
+    },
+    {
+      "id": "2a40",
+      "username": "rhenobokep",
+      "password": "12345678",
+      "role": "user"
+    },
+    {
+      "id": "cfae",
+      "username": "tes111",
+      "password": "11111111",
+      "role": "user"
+    },
+    {
+      "id": "4afd",
+      "username": "rhenofebrian",
+      "password": "12345678",
+      "role": "user "
+    }
+  ],
+  "carts": [
+    {
+      "id": "ed62",
+      "userId": "c92c",
+      "productId": "3",
+      "count": 6
+    }
+  ],
+  "transactions": [
+    {
+      "id": "4c59",
+      "userId": "4978",
+      "itemPrice": 110000,
+      "tax": 11000,
+      "transactionDate": "2024-08-30T15:20:54.545Z",
+      "items": [
+        {
+          "id": "e6b7",
+          "userId": "4978",
+          "productId": "1",
+          "count": 1,
+          "product": {
+            "id": "1",
+            "nama": "White Oversize",
+            "harga": 110000,
+            "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stok": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "3b21",
+      "userId": "4978",
+      "itemPrice": 240000,
+      "tax": 24000,
+      "transactionDate": "2024-08-30T15:50:12.245Z",
+      "items": [
+        {
+          "id": "d8aa",
+          "userId": "4978",
+          "productId": "12",
+          "count": 2,
+          "product": {
+            "id": "12",
+            "nama": "Brown Leather Wallet",
+            "harga": 120000,
+            "gambar": "https://images.unsplash.com/photo-1620109176813-e91290f6c795?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YnJvd24lMjBsZWF0aGVyJTIwd2FsbGV0fGVufDB8fDB8fHwy",
+            "stok": 20
+          }
+        }
+      ]
+    },
+    {
+      "id": "8204",
+      "userId": "c92c",
+      "itemPrice": 800000,
+      "tax": 80000,
+      "transactionDate": "2024-08-31T17:39:10.498Z",
+      "items": [
+        {
+          "id": "2451",
+          "userId": "c92c",
+          "productId": "3",
+          "count": 1,
+          "product": {
+            "id": "3",
+            "nama": "Blue Fitted Jeans",
+            "harga": 800000,
+            "gambar": "https://images.unsplash.com/photo-1514409101893-7db2a465592d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGplYW5zfGVufDB8fDB8fHwy",
+            "stok": 7
+          }
+        }
+      ]
+    },
+    {
+      "id": "7f85",
+      "userId": "c92c",
+      "itemPrice": 350000,
+      "tax": 35000,
+      "transactionDate": "2024-08-31T17:41:51.777Z",
+      "items": [
+        {
+          "id": "b483",
+          "userId": "c92c",
+          "productId": "1",
+          "count": 1,
+          "product": {
+            "id": "1",
+            "nama": "White Oversize",
+            "harga": 350000,
+            "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stok": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "2950",
+      "userId": "c92c",
+      "itemPrice": 5050000,
+      "tax": 505000,
+      "transactionDate": "2024-08-31T18:12:19.663Z",
+      "items": [
+        {
+          "id": "4a33",
+          "userId": "c92c",
+          "productId": "1",
+          "count": 3,
+          "product": {
+            "id": "1",
+            "nama": "White Oversize",
+            "harga": 350000,
+            "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "stok": 3
+          }
+        },
+        {
+          "id": "423e",
+          "userId": "c92c",
+          "productId": "3",
+          "count": 5,
+          "product": {
+            "id": "3",
+            "nama": "Blue Fitted Jeans",
+            "harga": 800000,
+            "gambar": "https://images.unsplash.com/photo-1514409101893-7db2a465592d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGplYW5zfGVufDB8fDB8fHwy",
+            "stok": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "4069",
+      "userId": "b83f",
+      "itemPrice": 3300000,
+      "tax": 330000,
+      "transactionDate": "2024-09-02T06:00:47.765Z",
+      "items": [
+        {
+          "id": "607b",
+          "userId": "b83f",
+          "productId": "6",
+          "count": 1,
+          "product": {
+            "id": "6",
+            "nama": "Luis Vuitton Casual Sneakers",
+            "harga": 3300000,
+            "gambar": "https://images.unsplash.com/photo-1587563871167-1ee9c731aefb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2FzdWFsJTIwc25lYWtlcnN8ZW58MHx8MHx8fDI%3D",
+            "stok": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "1684",
+      "userId": "b83f",
+      "itemPrice": 30000000,
+      "tax": 3000000,
+      "transactionDate": "2024-09-02T17:38:10.060Z",
+      "items": [
+        {
+          "id": "fe29",
+          "userId": "b83f",
+          "productId": "735e",
+          "count": 1,
+          "product": {
+            "id": "735e",
+            "nama": "Iphone 15 Iqal Baru Baret Dikit",
+            "harga": 30000000,
+            "stok": 5,
+            "gambar": "https://images.unsplash.com/photo-1695048132853-026f93f40f7f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8aXBob25lJTIwMTV8ZW58MHx8MHx8fDA%3D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5c48",
+      "userId": "b83f",
+      "itemPrice": 1300000,
+      "tax": 130000,
+      "transactionDate": "2024-09-15T18:37:40.375Z",
+      "items": [
+        {
+          "id": "bd9e",
+          "userId": "b83f",
+          "productId": "4",
+          "count": 2,
+          "product": {
+            "id": "4",
+            "nama": "New Era : Green Lantern",
+            "harga": 650000,
+            "gambar": "https://images.unsplash.com/photo-1720534490358-bc2ad29d51d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3ZXJhJTIwaGF0fGVufDB8fDB8fHwy",
+            "stok": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "be88",
+      "userId": "2a40",
+      "itemPrice": 150000,
+      "tax": 15000,
+      "transactionDate": "2024-09-18T01:11:41.629Z",
+      "items": [
+        {
+          "id": "5f1d",
+          "userId": "2a40",
+          "productId": "50b4",
+          "count": 1,
+          "product": {
+            "id": "50b4",
+            "nama": "Trasher Uniqlo",
+            "harga": 150000,
+            "stok": 3,
+            "gambar": "https://images.unsplash.com/photo-1692003509966-80ca67c85068?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "1d40",
+      "userId": "cfae",
+      "itemPrice": 800000,
+      "tax": 80000,
+      "transactionDate": "2024-10-01T14:08:25.324Z",
+      "items": [
+        {
+          "id": "46c2",
+          "userId": "cfae",
+          "productId": "3",
+          "count": 1,
+          "product": {
+            "id": "3",
+            "nama": "Blue Fitted Jeans",
+            "harga": 800000,
+            "gambar": "https://images.unsplash.com/photo-1514409101893-7db2a465592d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGplYW5zfGVufDB8fDB8fHwy",
+            "stok": 6
+          }
+        }
+      ]
+    },
+    {
+      "id": "5e3f",
+      "userId": "4978",
+      "itemPrice": 2400000,
+      "tax": 240000,
+      "transactionDate": "2024-10-01T14:10:57.393Z",
+      "items": [
+        {
+          "id": "a84d",
+          "userId": "4978",
+          "productId": "11",
+          "count": 4,
+          "product": {
+            "id": "11",
+            "nama": "Men's Trench Coat",
+            "harga": 600000,
+            "gambar": "https://images.unsplash.com/photo-1621880199720-be0d7d960a0a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVuJTIwdHJlbmNoJTIwY29hdHxlbnwwfHwwfHx8Mg%3D%3D",
+            "stok": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "e91c",
+      "userId": "4afd",
+      "itemPrice": 650000,
+      "tax": 65000,
+      "transactionDate": "2024-10-19T12:06:14.042Z",
+      "items": [
+        {
+          "id": "18fb",
+          "userId": "4afd",
+          "productId": "4",
+          "count": 1,
+          "product": {
+            "id": "4",
+            "nama": "New Era : Green Lantern",
+            "harga": 650000,
+            "gambar": "https://images.unsplash.com/photo-1720534490358-bc2ad29d51d5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3ZXJhJTIwaGF0fGVufDB8fDB8fHwy",
+            "stok": 4
+          }
+        }
+      ]
+    }
+  ]
+}
